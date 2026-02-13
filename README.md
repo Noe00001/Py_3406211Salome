@@ -16,24 +16,6 @@ Manejo de listas y colecciones.
 
 Funciones y modularización.
 
-🚀 Cómo utilizar este repositorio
-Si deseas probar los ejercicios localmente, sigue estos pasos:
-
-Clonar el repositorio:
-
-Bash
-
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-Navegar a la carpeta:
-
-Bash
-
-cd nombre-del-repo
-Ejecutar un ejercicio:
-Asegúrate de tener Python instalado y ejecuta:
-
-Bash
-
 python explicacion1.py
 🛠️ Tecnologías Utilizadas
 Lenguaje: Python 3.x
